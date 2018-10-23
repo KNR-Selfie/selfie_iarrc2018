@@ -1,0 +1,34 @@
+# Eclipse
+.classpath
+.settings/
+.metadata/
+.recommenders/
+.jar
+.save 
+
+# Maven
+log/
+target/
+
+# OpenCV
+build/
+*.user*
+*.md~
+*.cpp~
+*.h~
+*.txt~
+
+# STM32
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+.*.un~
+.*.swp
+*.bak
+
+
+# Files containg private data
+**/remotedebug.xml
